@@ -1,0 +1,26 @@
+{
+  "name": "projeto-api-proxy-javascript",
+  "version": "0.0.1",
+  "description": "Projeto Final Curso NodeJS Let'sCode",
+  "main": "'index.js'",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muriloWeber/Projeto-API-Proxy-Javascript.git"
+  },
+  "author": "'Murilo Weber'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriloWeber/Projeto-API-Proxy-Javascript/issues"
+  },
+  "homepage": "https://github.com/muriloWeber/Projeto-API-Proxy-Javascript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "node-gtts": "^2.0.2"
+  }
+}
